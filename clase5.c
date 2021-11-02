@@ -25,6 +25,7 @@ int main()
 // Que es lo mismo que:
 
 // char text2[] = "hola"
+// ->
 // text2[0] = 'h'
 // text2[1] = 'o'
 // text2[2] = 'l'
