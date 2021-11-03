@@ -8,7 +8,7 @@ int main(void)
     srand(time(0));
     random = rand() - RAND_MAX / 2;
     if (random > 0)
-        printf("Es positivo: %d",random);
+        printf("Es positivo: %d", random);
     else if (random == 0)
     {
         printf("Es cero: %d", random);
